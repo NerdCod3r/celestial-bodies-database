@@ -22,7 +22,7 @@ psql -U your_username -d your_database_name -f universe_dump.sql
 
 ## 📌 Future Enhancements  
 • Add more celestial objects such as **comets** and **black holes**.  
-• Expand ```planet ``` table to include attributes like **orbital period** and **mass**.  
+• Expand ```planet``` table to include attributes like **orbital period** and **mass**.  
 • Implement stored procedures or triggers for automated data validation.  
 
 ## 🤝 Contributing
